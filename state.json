@@ -1,0 +1,316 @@
+[
+    {
+        "id" : 1,
+        "state" : "Alabama",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 2,
+        "state" : "Alaska",
+        "hourly_rate" : 10.19 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 3,
+        "state" : "Arizona",
+        "hourly_rate" : 12.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 4,
+        "state" : "Arkansas",
+        "hourly_rate" : 10.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 5,
+        "state" : "California",
+        "hourly_rate" : 13.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 6,
+        "state" : "Colorado",
+        "hourly_rate" : 12.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 7,
+        "state" : "Connecticut",
+        "hourly_rate" : 12.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 8,
+        "state" : "Delaware",
+        "hourly_rate" : 9.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 9,
+        "state" : "Washington D.C.",
+        "hourly_rate" : 15.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 10,
+        "state" : "Florida",
+        "hourly_rate" : 8.56 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 11,
+        "state" : "Georgia",
+        "hourly_rate" : 5.15,
+        "timezone" : ""
+    },
+    {
+        "id" : 12,
+        "state" : "Hawaii",
+        "hourly_rate" : 10.10,
+        "timezone" : ""
+    },
+   
+    {
+        "id" : 13,
+        "state" : "Idaho",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 14,
+        "state" : "Illinois",
+        "hourly_rate" : 10.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 15,
+        "state" : "Indiana",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 16,
+        "state" : "Iowa",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 17,
+        "state" : "Kansas",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 18,
+        "state" : "Kentucky",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 19,
+        "state" : "Louisiana",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 20,
+        "state" : "Maine",
+        "hourly_rate" : 12.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 21,
+        "state" : "Maryland",
+        "hourly_rate" : 11.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 22,
+        "state" : "",
+        "hourly_rate" : "",
+        "timezone" : ""
+    },
+    {
+        "id" : 23,
+        "state" : "Massachusetts",
+        "hourly_rate" : 12.75,
+        "timezone" : ""
+    },
+    {
+        "id" : 24,
+        "state" : "Michigan",
+        "hourly_rate" : 9.65,
+        "timezone" : ""
+    },
+    {
+        "id" : 25,
+        "state" : "Minnesota",
+        "hourly_rate" : 10.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 26,
+        "state" : "Mississippi",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 27,
+        "state" : "Missouri",
+        "hourly_rate" : 9.45 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 28,
+        "state" : "Montana",
+        "hourly_rate" : 8.65 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 29,
+        "state" : "Nebraska",
+        "hourly_rate" : 9.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 30,
+        "state" : "Nevada",
+        "hourly_rate" : 8.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 31,
+        "state" : "New Hampshire ",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 32,
+        "state" : "New Jersey",
+        "hourly_rate" : 11.00 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 33,
+        "state" : "New Mexico",
+        "hourly_rate" : 9.00,
+        "timezone" : ""
+    },
+    {
+        "id" : 34,
+        "state" : "New York ",
+        "hourly_rate" : 11.80,
+        "timezone" : ""
+    },
+    {
+        "id" : 35,
+        "state" : "North Carolina ",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 36,
+        "state" : "North Dakota",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 37,
+        "state" : "Ohio",
+        "hourly_rate" : 8.70 ,
+        "timezone" : ""
+    },
+   
+    {
+        "id" : 38,
+        "state" : "Oklahoma",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 39,
+        "state" : "Oregon",
+        "hourly_rate" : 11.50,
+        "timezone" : ""
+    },
+    {
+        "id" : 40,
+        "state" : "Pennsylvania",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 41,
+        "state" : "Rhode Island",
+        "hourly_rate" : 10.50 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 42,
+        "state" : "South Carolina ",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 43,
+        "state" : "South Dakota",
+        "hourly_rate" : 9.30 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 44,
+        "state" : "Tennessee",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 45,
+        "state" : "Texas",
+        "hourly_rate" : 7.25,
+        "timezone" : ""
+    },
+    {
+        "id" : 46,
+        "state" : "Utah",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 47,
+        "state" : "Vermont",
+        "hourly_rate" : 10.96 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 48,
+        "state" : "Virginia",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 49,
+        "state" : "Washington",
+        "hourly_rate" : 13.50 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 50,
+        "state" : "West Virginia",
+        "hourly_rate" : 8.75 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 51,
+        "state" : "Wisconsin",
+        "hourly_rate" : 7.25 ,
+        "timezone" : ""
+    },
+    {
+        "id" : 52,
+        "state" : "Wyoming",
+        "hourly_rate" : 5.15,
+        "timezone" : ""
+    }
+]
