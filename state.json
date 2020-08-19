@@ -3,314 +3,314 @@
         "id" : 1,
         "state" : "Alabama",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 2,
         "state" : "Alaska",
         "hourly_rate" : 10.19 ,
-        "timezone" : ""
+        "timezone" : "Alaska Standard Time (AKST), Aleutian Islands Hawaii-Aleutian Standard Time (HST)"
     },
     {
         "id" : 3,
         "state" : "Arizona",
         "hourly_rate" : 12.00,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST), Daylight Saving Time (DST)"
     },
     {
         "id" : 4,
         "state" : "Arkansas",
         "hourly_rate" : 10.00 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 5,
         "state" : "California",
         "hourly_rate" : 13.00,
-        "timezone" : ""
+        "timezone" : "Pacific Standard Time (PST)"
     },
     {
         "id" : 6,
         "state" : "Colorado",
         "hourly_rate" : 12.00,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST)"
     },
     {
         "id" : 7,
         "state" : "Connecticut",
         "hourly_rate" : 12.00 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 8,
         "state" : "Delaware",
         "hourly_rate" : 9.25,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 9,
         "state" : "Washington D.C.",
         "hourly_rate" : 15.00 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 10,
         "state" : "Florida",
         "hourly_rate" : 8.56 ,
-        "timezone" : ""
+        "timezone" : " Eastern Standard Time (EST), Central Standard Time (CST)"
     },
     {
         "id" : 11,
         "state" : "Georgia",
         "hourly_rate" : 5.15,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 12,
         "state" : "Hawaii",
         "hourly_rate" : 10.10,
-        "timezone" : ""
+        "timezone" : "Hawaii-Aleutian Standard Time (HST)"
     },
    
     {
         "id" : 13,
         "state" : "Idaho",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : " Mountain Standard Time (MST), Pacific Standard Time (PST)"
     },
     {
         "id" : 14,
         "state" : "Illinois",
         "hourly_rate" : 10.00 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 15,
         "state" : "Indiana",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : " Eastern Standard Time (EST)"
     },
     {
         "id" : 16,
         "state" : "Iowa",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 17,
         "state" : "Kansas",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST),  Mountain Standard Time (MST)"
     },
     {
         "id" : 18,
         "state" : "Kentucky",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Eastern Standard Time (EST)"
     },
     {
         "id" : 19,
         "state" : "Louisiana",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), "
     },
     {
         "id" : 20,
         "state" : "Maine",
         "hourly_rate" : 12.00 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 21,
         "state" : "Maryland",
         "hourly_rate" : 11.00 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 22,
-        "state" : "",
-        "hourly_rate" : "",
-        "timezone" : ""
+        "state" : "Guam",
+        "hourly_rate" : 8.75,
+        "timezone" : "Chamorro Standard Time (ChST)"
     },
     {
         "id" : 23,
         "state" : "Massachusetts",
         "hourly_rate" : 12.75,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 24,
         "state" : "Michigan",
         "hourly_rate" : 9.65,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 25,
         "state" : "Minnesota",
         "hourly_rate" : 10.00,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 26,
         "state" : "Mississippi",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 27,
         "state" : "Missouri",
         "hourly_rate" : 9.45 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 28,
         "state" : "Montana",
         "hourly_rate" : 8.65 ,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST)"
     },
     {
         "id" : 29,
         "state" : "Nebraska",
         "hourly_rate" : 9.00 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Mountain Standard Time (MST)"
     },
     {
         "id" : 30,
         "state" : "Nevada",
         "hourly_rate" : 8.00,
-        "timezone" : ""
+        "timezone" : "Pacific Standard Time (PST), Mountain Standard Time (MST)"
     },
     {
         "id" : 31,
         "state" : "New Hampshire ",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 32,
         "state" : "New Jersey",
         "hourly_rate" : 11.00 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 33,
         "state" : "New Mexico",
         "hourly_rate" : 9.00,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST)"
     },
     {
         "id" : 34,
         "state" : "New York ",
         "hourly_rate" : 11.80,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 35,
         "state" : "North Carolina ",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 36,
         "state" : "North Dakota",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Mountain Standard Time (MST)"
     },
     {
         "id" : 37,
         "state" : "Ohio",
         "hourly_rate" : 8.70 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
    
     {
         "id" : 38,
         "state" : "Oklahoma",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 39,
         "state" : "Oregon",
         "hourly_rate" : 11.50,
-        "timezone" : ""
+        "timezone" : " Pacific Standard Time (PST), Mountain Standard Time (MST)"
     },
     {
         "id" : 40,
         "state" : "Pennsylvania",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 41,
         "state" : "Rhode Island",
         "hourly_rate" : 10.50 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 42,
         "state" : "South Carolina ",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 43,
         "state" : "South Dakota",
         "hourly_rate" : 9.30 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Mountain Standard Time (MST)"
     },
     {
         "id" : 44,
         "state" : "Tennessee",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Central Standard Time (CST),  Eastern Standard Time (EST)"
     },
     {
         "id" : 45,
         "state" : "Texas",
         "hourly_rate" : 7.25,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST), Mountain Standard Time (MST)"
     },
     {
         "id" : 46,
         "state" : "Utah",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST)"
     },
     {
         "id" : 47,
         "state" : "Vermont",
         "hourly_rate" : 10.96 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 48,
         "state" : "Virginia",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 49,
         "state" : "Washington",
         "hourly_rate" : 13.50 ,
-        "timezone" : ""
+        "timezone" : "Pacific Standard Time (PST)"
     },
     {
         "id" : 50,
         "state" : "West Virginia",
         "hourly_rate" : 8.75 ,
-        "timezone" : ""
+        "timezone" : "Eastern Standard Time (EST)"
     },
     {
         "id" : 51,
         "state" : "Wisconsin",
         "hourly_rate" : 7.25 ,
-        "timezone" : ""
+        "timezone" : "Central Standard Time (CST)"
     },
     {
         "id" : 52,
         "state" : "Wyoming",
         "hourly_rate" : 5.15,
-        "timezone" : ""
+        "timezone" : "Mountain Standard Time (MST)"
     }
 ]
